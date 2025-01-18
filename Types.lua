@@ -1,4 +1,4 @@
-local WidgetTypes = 
+local WidgetTypes = game:HttpGet('https://github.com/CatNation2/Iris-Library-/edit/main/WidgetTypes.lau
 
 export type ID = WidgetTypes.ID
 export type State<T> = WidgetTypes.State<T>
